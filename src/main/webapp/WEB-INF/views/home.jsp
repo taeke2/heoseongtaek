@@ -5,9 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
-<h1 style="color:red;">
+<h1 style="color:blue;">
 	Hello world!<br>
-	Hello Spring!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
